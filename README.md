@@ -1,4 +1,4 @@
-# Internship JSON Project
+# ci_tutorial - for practice
 
 This is my first Codeigniter projects.
 
